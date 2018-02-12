@@ -1,4 +1,4 @@
-# codechallenging
+# codechallenge
 
 use python3.5 or later version for running this test
 
